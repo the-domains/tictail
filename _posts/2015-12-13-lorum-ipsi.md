@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-13T20:29:55.493Z'
-dateModified: '2015-12-13T20:29:45.958Z'
+datePublished: '2015-12-14T16:47:20.217Z'
+dateModified: '2015-12-14T10:00:49.353Z'
 title: Lorum Ipsi
 author: []
+sourcePath: _posts/2015-12-13-lorum-ipsi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-13-lorum-ipsi.md
-published: true
 url: lorum-ipsi/index.html
 _type: Article
 
