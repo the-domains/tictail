@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tictail]]></title>
         <description><![CDATA[Tictail]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tictail/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 20:29:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 16:47:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tictail/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lorum Ipsi]]></title>
             <description><![CDATA[<article><h1>Lorum Ipsi</h1><p>Lorem Ipsumis simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></article>]]></description>
-            <link>undefinedlorum-ipsi/index.html</link>
+            <link>https://thegrid.ai/tictail/lorum-ipsi/index.html</link>
             <guid isPermaLink="false">55962566-d26e-4408-a2f2-e941e12e7124</guid>
-            <pubDate>Sun, 13 Dec 2015 20:29:55 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 16:47:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
